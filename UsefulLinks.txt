@@ -1,1 +1,3 @@
 Free AI Image Generator - https://perchance.org/ai-text-to-image-generator
+Image Background Remover - https://www.pixelcut.ai/background-remover
+Temporary Mails - https://temp-mail.org/en/
