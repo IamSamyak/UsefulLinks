@@ -11,3 +11,6 @@
 
 ## Lottie Animations (Checkbox)
 - [LottieFlow Checkbox Animations](https://finsweet.com/lottieflow/category/checkbox)
+
+## LottieFiles Search
+- [LottieFiles Animation Search](https://lottiefiles.com/search)
