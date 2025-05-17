@@ -8,3 +8,6 @@
 
 ## Temporary Emails
 - [Temp Mail](https://temp-mail.org/en/)
+
+## Lottie Animations (Checkbox)
+- [LottieFlow Checkbox Animations](https://finsweet.com/lottieflow/category/checkbox)
